@@ -97,7 +97,7 @@ class Baby:
         print(f"{self.baby_name}'s weight in pounds is: {current_pounds}")
         print(f"{self.baby_name}'s height in inches is: {self.starting_height}")
         print(f"{self.baby_name}'s mood is {self.mood}")
-        print()
+        
 
 
 
